@@ -6,3 +6,6 @@ def hello (name):
 
 def welcome (student,school):
     print(f"Welcome to {school},{student}")
+
+
+
