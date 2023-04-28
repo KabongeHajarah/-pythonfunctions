@@ -2,7 +2,7 @@ def year_of_birth(name,age):
     year=2023-age
     print(f"Hello {name},you are born in {year}")
 
-
+#keyword
 def my_country (country="Kenya"):
     print (f"Hello you are from {country}")
 
